@@ -15,7 +15,7 @@ InvaderX is a technology-focused organization dedicated to developing web-based 
 
 Explore our repositories to discover what we're building and working on.
 
-[**Explore Our Repositories →**](https://github.com/InvaderX-2026?tab=repositories)
+[**Explore Our Repositories →**](https://github.com/orgs/InvaderX-2026/repositories)
 
 ## 🤝 Community & Contributions
 
